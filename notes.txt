@@ -4,3 +4,4 @@ This line is changed in master branch.
 This line is changed differently in feature branch.
 I am adding another line for fetch.
 
+This line is added in master branch after feature creation.
