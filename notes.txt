@@ -4,4 +4,8 @@ This line is changed in master branch.
 This line is changed differently in feature branch.
 I am adding another line for fetch.
 
+<<<<<<< HEAD
 This line is added in master branch after feature creation.
+=======
+This line is added in feature-rebase branch.
+>>>>>>> 8674d85 (Add line in feature-rebase branch)
